@@ -68,7 +68,7 @@
 
 ![line-boxes](http://iamvdo.me/content/01-blog/30-css-avance-metriques-des-fontes-line-height-et-vertical-align/line-boxes.png)
 
-（註 圖片來源：https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align）
+（ 註 圖片來源：[Vincent De Oliveira](https://iamvdo.me/en/blog/css-font-metrics-line-height-and-vertical-align) ）
 
 - 產生三行線框 (白色實線框範圍)。
 - 第一行和最後一行虛線框都為匿名行內元素 (文本內容)。
